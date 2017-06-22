@@ -16,5 +16,14 @@
     "react-dom": "^15.0.2",
     "reactify": "^1.1.1",
     "watchify": "^3.7.0"
+  },
+  "devDependencies": {
+    "prosemirror-dev-tools": "^1.3.5",
+    "prosemirror-example-setup": "^0.21.0",
+    "prosemirror-keymap": "^0.21.0",
+    "prosemirror-menu": "^0.21.0",
+    "prosemirror-schema-basic": "^0.21.0",
+    "prosemirror-state": "^0.21.0",
+    "prosemirror-view": "^0.21.1"
   }
 }
